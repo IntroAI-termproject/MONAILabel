@@ -1,76 +1,47 @@
-# Contributor Covenant Code of Conduct
+# 기여자 규약 행동강령
 
-## Our Pledge
+## 우리의 약속
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+개방적이고 따듯한 환경을 조성하기 위해, 기여자와 유지자로서 우리는 나이, 신체 크기, 장애, 민족성, 성별 특성, 성 정체성과 표현, 경험 수준, 교육, 사회, 그리고 경제적 지위, 국적, 개인적 외모, 인종, 종교 또는 성적 정체성과 오리엔테이션에 관계없이 모든 사람에게 괴롭힘 없는 경험을 위한 분위기를 만들 것을 약속합니다. 
 
-## Our Standards
+## 우리의 기준
 
-Examples of behavior that contributes to creating a positive environment
-include:
+긍정적인 환경을 만드는 데 기여하는 동작의 예는 다음과 같습니다:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* 따듯하고 포용적인 언어 사용하기
+* 다양한 관점과 경험을 존중하기
+* 건설적인 비판을 우아하게 받아들이기
+* 지역사회에 가장 좋은 것에 집중하기
+* 다른 커뮤니티 구성원에게 공감하기
 
-Examples of unacceptable behavior by participants include:
+참가자의 허용할 수 없는 행동의 예는 다음과 같습니다:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
- advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
- address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
- professional setting
+* 성적 언어 또는 이미지 사용 및 반갑지 않은 성적 관심을 표하거나 진전을 유도하는 행위
+* 트롤링, 모욕적/모독적 발언, 인신공격 또는 정치적 공격
+* 공적 또는 사적 괴롭힘
+* 명시적 허가 없이 물리적 또는 전자적 주소 등 타인의 개인정보 공개하는 행위
+* 기타 전문적 환경에서 타당하게 부적절하다고 판단될 수 있는 행위
 
-## Our Responsibilities
+## 우리의 책임
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+프로젝트 유지관리자는 허용 가능한 행동의 표준을 명확히 할 책임이 있으며 허용할 수 없는 행동의 사례에 대응하여 적절하고 공정한 시정 조치를 취할 것입니다.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+프로젝트 유지관리자는 본 행동 강령과 관련이 없는 의견, 커밋, 코드, 위키 편집, 문제 및 기타 기여를 제거, 편집 또는 거부하거나 부적절하거나 위협적이거나 공격적이거나 유해하다고 판단되는 기타 행위에 대해 일시적으로 또는 영구적으로 모든 기여자를 금지할 수 있는 권한과 책임이 있습니다.
 
-## Scope
+## 범위
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+이 행동 강령은 개인이 프로젝트 또는 커뮤니티를 대표할 때 프로젝트 공간 내와 공용 공간 모두에서 적용됩니다. 프로젝트 또는 커뮤니티를 대표하는 예로는 공식 프로젝트 이메일 주소 사용, 공식 소셜 미디어 계정을 통한 게시, 온라인 또는 오프라인 이벤트에서 임명된 대리인 역할을 포함합니다. 프로젝트의 표현은 프로젝트 유지관리자에 의해 추가로 정의되고 명확히 할 수 있습니다.
 
-## Enforcement
+## 시행
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at monai.contact@gmail.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+학대, 괴롭힘 또는 받아들일 수 없는 행동은 monai.contact@gmail.com로 프로젝트 팀에 연락하여 보고할 수 있습니다. 모든 불만 사항을 검토하고 조사하여 상황에 적절하고 필요하다고 판단되는 응답이 도출됩니다. 프로젝트 팀은 사건 신고자에 대한 기밀을 유지할 의무가 있습니다. 구체적인 시행 정책에 대한 자세한 내용은 별도로 게시할 수 있습니다.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+성실하게 행동 강령을 준수하거나 시행하지 않는 프로젝트 유지관리자는 프로젝트 지도부의 다른 구성원에 의해 결정되는 일시적 또는 영구적인 영향을 받을 수 있습니다.
 
-## Attribution
+## 귀속
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+본 행동 강령은 [기여자 규약][홈페이지] 버전 1.4에서 수정되었으며, https://www.contributor-covenant.org/version/1/4/code-of-conduct.html 에서 확인할 수 있습니다.
 
-[homepage]: https://www.contributor-covenant.org
+[홈페이지]: https://www.contributor-covenant.org
 
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+이 행동 강령과 관련된 일반적인 질문에 대한 답변은 https://www.contributor-covenant.org/faq 을 참조하십시오.
