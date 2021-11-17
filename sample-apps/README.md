@@ -1,27 +1,22 @@
-# Available MONAI Label Apps
+# 사용 가능한 MONAI 라벨 앱
 
-### Overview
+### 개요
 
-In this folder you will find examples of the **three available paradigms**: Two interactive (DeepGrow, DeepEdit) and one for automated segmentation.
+이 폴더에는 **3가지 사용 가능한 패러다임** - 두 가지 대화형(DeepGrow, DeepEdit)과 한 가지 자동 분할 - 의 예제가 있습니다.
 
 
 #### DeepGrow
 
-For the DeepGrow paradigm there are two cases: the [deepgrow for left atrium segmentation](./deepgrow_left_atrium) and 
-the [deepgrow App](./deepgrow). The latter one is meant for the users that want to build deepgrow-based Apps.
+DeepGrow 패러다임의 경우 [좌심방 분할을 위한 DeepGrow](./deepgrow_left_atrium)와 [deepGrow App](./deepgrow)의 두 가지 경우가 있습니다. 후자는 DeepGrow 기반 앱을 구축하려는 사용자를 위한 것입니다.
 
 #### DeepEdit
 
-Similar to the deepgrow Apps, you'll find the one generic [deepedit](./deepedit) that researchers can use to build their own deepedit-based app.
+Deepgrow Apps와 유사하게, 연구원들이 DeepEdit 기반 앱을 만드는 데 사용할 수 있는 일반적인 [deepedit](.deepedit)를 찾을 수 있습니다.
 
 
-#### Automated Segmentation
+### 자동 분할
 
-As the deepgrow and deepedit Apps, researchers can try the non-interactive Apps for [spleen](./segmentation_spleen) and [left atrium](./segmentation_left_atrium) using UNet. There is also the generic segmentation App that researchers can clone to create their own App. 
-
-
-More examples of these Apps can be found in the [MONAI Label Apps Zoo](https://github.com/diazandr3s/MONAILabel-Apps)
+DeepGrow 및 DeepEdit 앱으로서, 연구자들은 UNet을 사용하여 [./segmentation_splen](. segmentation_splen) 및 [left atrium](./segmentation_left_atrium)에 대한 비대화형 앱을 시도할 수 있습니다. 또한 연구원들이 복제하여 자신만의 앱을 만들 수 있는 일반적인 세분화 앱도 있습니다. 
 
 
-
-
+이러한 앱의 더 많은 예는 [MONAI 라벨 앱스 동물원](https://github.com/diazandr3s/MONAILabel-Apps)에서 확인할 수 있습니다.
