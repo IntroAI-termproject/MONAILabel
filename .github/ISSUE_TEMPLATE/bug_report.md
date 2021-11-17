@@ -1,34 +1,34 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+이름: 버그 리포트
+주제: 개선을 위한 보고서 작성
+제목: ''
+라벨: ''
+제보자: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**버그 설명**
+버그가 무엇인지 명확하고 간결한 설명입니다.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Install '....'
-3. Run commands '....'
+**재현하려면**
+동작을 재현하는 단계:
+1. '...'로 이동합니다
+2. '....'를 설치합니다.
+3. '....' 명령을 실행합니다.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**예상된 동작**
+예상한 내용에 대한 명확하고 간결한 설명입니다.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**스크린샷**
+해당되는 경우 문제를 설명하는 데 도움이 되도록 스크린샷을 추가합니다.
 
-**Environment**
+**환경**
 
-Ensuring you use the relevant python executable, please paste the output of:
+관련 파이썬 실행 파일을 사용하는지 확인하고 다음 코드의 출력을 붙여넣으십시오.
 
 ```
 python -c 'import monai; monai.config.print_debug_info()'
 ```
 
-**Additional context**
-Add any other context about the problem here.
+**추가 컨텍스트**
+여기에 문제에 대한 다른 컨텍스트를 추가합니다.
